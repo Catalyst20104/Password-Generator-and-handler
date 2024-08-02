@@ -1,0 +1,15 @@
+char *startencrption(char *str);
+char *startdecryption(char *str1);
+void IP();
+void PermChoice1();
+void PermChoice2();
+void Expansion();
+void inverse();
+void xor_two();
+void xor_oneE(int);
+void xor_oneD(int);
+void substitution();
+void permutation();
+void keygen();
+char *Encrypt(char *);
+char *Decrypt(char *);
