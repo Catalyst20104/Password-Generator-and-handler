@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a secure password generator and storage system that creates passwords based on user preferences and securely stores them in a PostgreSQL database. The generated passwords are encrypted using the DES (Data Encryption Standard) algorithm for added security.
+This project is a secure password generator and storage system that creates passwords based on user preferences and securely stores them in a MySQL database. The generated passwords are encrypted using the DES (Data Encryption Standard) algorithm for added security.
 
 ## Features
 
