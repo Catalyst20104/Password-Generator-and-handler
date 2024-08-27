@@ -23,4 +23,4 @@ This project is a secure password generator and storage system that creates pass
 - PostgreSQL database
 - DES algorithm for encryption 
 
-# *** Storage system is not done yet ***
+ *** Storage system is pending ***
